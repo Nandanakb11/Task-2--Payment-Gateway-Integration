@@ -8,5 +8,6 @@ user can select the amount to be paid and the payment type, e.g.
 credit card, Paypal, etc.
 
 Click here to get a quick preview of my website-
+https://nandanakb11.github.io/Task-2--Payment-Gateway-Integration/
 
 
